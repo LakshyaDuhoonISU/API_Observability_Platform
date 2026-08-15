@@ -166,3 +166,13 @@ api-observability-platform/
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/reports/generate` | Generate & download PDF report |
+
+## Screenshots
+![alt text](<Screenshot 2026-08-15 at 15.42.14.png>)
+![alt text](<Screenshot 2026-08-15 at 15.43.10.png>)
+![alt text](<Screenshot 2026-08-15 at 15.44.04.png>)
+![alt text](<Screenshot 2026-08-15 at 15.45.27.png>)
+![alt text](<Screenshot 2026-08-15 at 15.45.10.png>)
+![alt text](<Screenshot 2026-08-15 at 15.44.55.png>)
+![alt text](<Screenshot 2026-08-15 at 15.44.41.png>)
+![alt text](<Screenshot 2026-08-15 at 15.44.31.png>)
